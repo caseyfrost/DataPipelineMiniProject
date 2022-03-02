@@ -1,1 +1,4 @@
 .idea*
+csv_testing.py
+database.ini
+pycharm_files/__pycache__/
