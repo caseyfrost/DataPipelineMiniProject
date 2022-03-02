@@ -1,7 +1,7 @@
 from configparser import ConfigParser
 
 
-def config(filename='database.ini', section='mysql'):
+def config(filename='database_example.ini', section='mysql'):
     # create a parser
     parser = ConfigParser()
     # read config file
