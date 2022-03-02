@@ -9,7 +9,7 @@ CREATE DATABASE eventsystem;
 
 USE eventsystem;
 
-CREATE TABLE TicketSales (
+CREATE TABLE ticket_sales (
 	ticket_id INT,
 	trans_date INT,
 	event_id INT,
