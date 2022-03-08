@@ -37,6 +37,6 @@ def query_popular_tickets(connection):
 
 
 def print_records(records):
-    print("Here are the most popular tickets last month: ")
+    print("Here are the most popular events last month: ")
     for record in records:
         print(f"    - {record[0]}")
